@@ -1,8 +1,12 @@
-# Studygroup 8 - Assignment 1
-## Advanced Cognitive Modelling Spring 2024 Assignment 1 
-This repository contains all code and data related to assignment 1 in Advanced Cognitive Modelling. All code can be found in Assignment1_Martine.Rmd, in which all code from all members are gathered in one markdown.
+# Study Group 8 - Assignment 1 
+
+## Advanced Cognitive Modelling Spring 2024
+This repository contains all code and data related to the assignment 1 of the ACM port folio exam. 
+
+### Usage
+All code used can be found in Assignment1_Martine.Rmd.
 
 ## Authors
-- Marc Barcelos
-- Alina Kereszt 
-- Martine Lind Jensen
+- Alina Kereszt (202005328)
+- Marc Barcelos (202302260)
+- Martine Lind Jensen (201906161)
